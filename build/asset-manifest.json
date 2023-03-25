@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/baseball-stats-frontend/static/css/main.073c9b0a.css",
+    "main.js": "/baseball-stats-frontend/static/js/main.f1369eb9.js",
+    "static/js/787.0eb991ec.chunk.js": "/baseball-stats-frontend/static/js/787.0eb991ec.chunk.js",
+    "static/media/logo.svg": "/baseball-stats-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/baseball-stats-frontend/index.html",
+    "main.073c9b0a.css.map": "/baseball-stats-frontend/static/css/main.073c9b0a.css.map",
+    "main.f1369eb9.js.map": "/baseball-stats-frontend/static/js/main.f1369eb9.js.map",
+    "787.0eb991ec.chunk.js.map": "/baseball-stats-frontend/static/js/787.0eb991ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f1369eb9.js"
+  ]
+}
